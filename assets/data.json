@@ -1,0 +1,25 @@
+{
+  "title":"Hello, I'm x4twister",
+  "blocks":[
+    {
+      "subtitle":"About me",
+      "text":"Linux, Mac and Android developer. I’ve been developing my own application for Android (Kotlin) since 2019, using modern development technologies (MVVM, Realm DB, REST API, ...). Also I have experience in developing Android applications for various purposes. Ready for cooperation and development. Now I'm learning Flutter (Dart, BLoC, ...)."
+    },
+    {
+      "subtitle":"Skills",
+      "text":"C++ (STL, Qt), Kotlin, Java, Flutter (Dart), Python, Swift"
+    },
+    {
+      "subtitle":"Education",
+      "text":"Moscow State Institute of Radio Engineering, Electronics and Automation (2003-2009)"
+    },
+    {
+      "subtitle":"Experience",
+      "text":"I have been working at a full-cycle automation enterprise since I was a student."
+    },
+    {
+      "subtitle":"Contacts",
+      "text":"Skype/Telegram: x4twister"
+    }
+  ]
+}
